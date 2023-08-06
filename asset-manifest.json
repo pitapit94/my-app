@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//pitapit94.github.io/my-app/static/css/main.b4d9603f.css",
+    "main.js": "/https//pitapit94.github.io/my-app/static/js/main.c819db7a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/https//pitapit94.github.io/my-app/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/https//pitapit94.github.io/my-app/index.html",
+    "main.b4d9603f.css.map": "/https//pitapit94.github.io/my-app/static/css/main.b4d9603f.css.map",
+    "main.c819db7a.js.map": "/https//pitapit94.github.io/my-app/static/js/main.c819db7a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/https//pitapit94.github.io/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4d9603f.css",
+    "static/js/main.c819db7a.js"
+  ]
+}
